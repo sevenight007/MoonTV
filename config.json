@@ -1,6 +1,61 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "sony": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼",
+      "detail": "https://suoniapi.com"
+    },
+    "yaokuai": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "name": "要快ukuapi",
+      "detail": "https://api.ukuapi.com"
+    },
+    "Uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "name": "U酷资源",
+      "detail": "https://api.ukuapi.com"
+    },
+    "baiduyun": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度云资源",
+      "detail": "https://api.apibdzy.com"
+    },
+        "tcity": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "name": "涂城",
+      "detail": "https://api.wujinapi.com"
+    },
+        "kyin": {
+      "api": "https://yhzy.cc/api.php/provide/vod/",
+      "name": "K影",
+      "detail": "https://yhzy.cc"
+    },
+        "xlzy": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪资源",
+      "detail": "https://api.xinlangapi.com"
+    },
+        "baofeng": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风",
+      "detail": "https://bfzyapi.com"
+    },
+        "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "name": "CK资源",
+      "detail": "https://ckzy.me"
+    },
+        "hmrzy": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "name": "黑木耳资源",
+      "detail": "https://json.heimuer.xyz"
+    },
+        "1080hdzy": {
+      "api": "http://api.1080zyku.com/inc/api_mac10.php",
+      "name": "1080zyku",
+      "detail": "http://api.1080zyku.com"
+    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
