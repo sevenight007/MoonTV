@@ -230,25 +230,9 @@
 },
     "hsck": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
-      "name": "黄色仓库资源"
+      "name": "hsck"
     },
-    "apiyutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "玉兔资源"
-    },
-    "apilj": {
-      "api": "https://apilj.com/api.php/provide/vod",
-      "name": "辣椒资源"
-    },
-      "naixxzy": {
-      "api": "https://naixxzy.com/api.php/provide/vod",
-      "name": "奶香香资源"
-    },
-    "apilyzy": {
-      "api": "https://api.apilyzy.com/api.php/provide/vod",
-      "name": "老鸭资源"
-    },
-    "xiaomaomi": {
+      "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
