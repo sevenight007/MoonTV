@@ -276,7 +276,7 @@
 
 "6U资源": {
 "name":"6U资源"
-"api":"http://www.6uzy.cc/inc/apijson_vod.php,
+"api":"http://www.6uzy.cc/inc/apijson_vod.php",
 },
 "天堂资源": {
 "name":"天堂资源"
@@ -327,7 +327,7 @@
 },
 
 "影世界": {
-"name":"影世界
+"name":"影世界"
 "api":"https://video.yingworld.vip/api.php/provide/vod/",
 },
 "XYUI": {
